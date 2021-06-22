@@ -11,6 +11,8 @@
 <br/>:blue_heart:&nbsp; My favorite colour is blue
 <br/>:volleyball:&nbsp; I play volleyball since very young and this taught me the importance of teamwork
 <br/>:computer:&nbsp; I'm currently learning Elixir and it has been enjoyable to deepen my knowledge of functional programming
+
+ ![Snake animation](https://github.com/gus-messagi/gus-messagi/blob/output/github-contribution-grid-snake.svg)
 <!--
 **gus-messagi/gus-messagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
