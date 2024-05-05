@@ -1,4 +1,4 @@
-## Hello!:v:
+## Hello!
 
 <a href="https://www.linkedin.com/in/gustavo-messagi-63470718b/">
 <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-282A36?style=for-the-badge&logo=Linkedin&logoColor=white)" />
